@@ -3495,7 +3495,7 @@ a.btn-arrow span:after {
   background-size: cover;
   background-attachment: scroll;
   position: relative;
-  margin-top: -70px;
+  /* margin-top: -70px; */
 }
 .pbmit-title-bar-content {
   position: relative;
