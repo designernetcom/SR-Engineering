@@ -558,6 +558,7 @@ body .pbmit-bg-color-white {
 }
 .site-header {
   position: relative;
+  border-bottom: 3px solid #4864c7;
 }
 .site-header .site-branding img {
   display: inline-block;
